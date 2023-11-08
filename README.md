@@ -1,24 +1,6 @@
-[![MasterHead](https://miro.medium.com/v2/0*_4QMKLmDcLolMwAt.jpeg)](https://github.com/hasithlakshan)
-<h1 align="center">Hi 👋, I'm Hasith Lakshan</h1>
-<h3 align="center">A passionate Full stack development</h3>
-<img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg?w=900&t=st=1699459941~exp=1699460541~hmac=2f6449b9ecb98d637509940b85c34761b711c022f5f3db04c96ddc91f5357386"/>
-
-- 🔭 I’m currently working on [DBF SaaS product, Takenaka enterprise application](https://app.saas.bluefoam.io/)
-
-- 🌱 I’m currently learning **Three.js**
-
-- 👯 I’m looking to collaborate on [www.facebook.com](www.facebook.com)
-
-- 🤝 I’m looking for help with [www.facebook.com](www.facebook.com)
-
-- 💬 Ask me about **react, node, mysql**
-
-- 📫 How to reach me **hasith.lakshan2@gmail.com**
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/linkedin.com/in/hasith-lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/hasith-lakshan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hasith-lakshan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasith-lakshan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
