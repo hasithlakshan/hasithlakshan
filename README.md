@@ -32,10 +32,8 @@ Here are my contributions from other GitHub accounts:
       height="45"
       style="border-radius: 50%; margin-right: 10px;"
     />
+    hasith-noetic [2019-2021]
   </a>
-  <div>
-    <a href="https://github.com/hasith-noetic">hasith-noetic [2019-2021]</a>
-  </div>
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 20px;">
