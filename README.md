@@ -8,10 +8,6 @@
 
 - 🌱 I’m currently learning **Three.js**
 
-- 👯 I’m looking to collaborate on [www.facebook.com](www.facebook.com)
-
-- 🤝 I’m looking for help with [www.facebook.com](www.facebook.com)
-
 - 💬 Ask me about **react, node, mysql**
 
 - 📫 How to reach me **hasith.lakshan2@gmail.com**
