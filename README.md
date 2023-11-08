@@ -26,7 +26,7 @@
 
 Here are my contributions from other GitHub accounts:
 
-<div style="display: flex; align-items: center; margin-bottom: 20px; flex-direction: row">
+<div style="display: flex; align-items: center; margin-bottom: 20px; flex-direction: column">
   <a href="https://github.com/hasith-noetic">
     <img src="https://camo.githubusercontent.com/edace24477b83fec7ceeed28766bed49d1e437525e96e7570ace005e7c8a9432/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6769746875622e706e67"
       width="45"
