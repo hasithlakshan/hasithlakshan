@@ -1,7 +1,7 @@
 [![MasterHead](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD…y3DvkRAJbdPURAEREAREQBERAEREAREQBPLboiAfKIiAf/9k=)](https://github.com/hasithlakshan)
 <h1 align="center">Hi 👋, I'm Hasith Lakshan</h1>
 <h3 align="center">A passionate Full stack development</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2Fage-of-awareness%2Fhow-i-started-coding-observing-nature-42a78396b06e&psig=AOvVaw0o_0yk27qTtuoQsn2hSIeS&ust=1699544470831000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDXy9XetIIDFQAAAAAdAAAAABAE"/>
+<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2Fd2%2F4f%2Fba%2Fd24fbaf1d1218cd55b2b8cd8253f5b01.jpg&tbnid=0uUEfT-ITa-lvM&vet=12ahUKEwjfkeHF37SCAxWKbWwGHaYMD6UQMygHegQIARA_..i&imgrefurl=https%3A%2F%2Fin.pinterest.com%2Fpin%2F826129125371457022%2F&docid=Hr8hjwMtQ7t-pM&w=590&h=590&q=programing%20man%20modern%20gltf&ved=2ahUKEwjfkeHF37SCAxWKbWwGHaYMD6UQMygHegQIARA_"/>
 
 - 🔭 I’m currently working on [www.facebook.com](https://app.saas.bluefoam.io/)
 
