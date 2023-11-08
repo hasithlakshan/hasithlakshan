@@ -1,4 +1,4 @@
-[![MasterHead](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD…y3DvkRAJbdPURAEREAREQBERAEREAREQBPLboiAfKIiAf/9k=)](https://github.com/hasithlakshan)
+[![MasterHead](https://miro.medium.com/v2/0*_4QMKLmDcLolMwAt.jpeg)](https://github.com/hasithlakshan)
 <h1 align="center">Hi 👋, I'm Hasith Lakshan</h1>
 <h3 align="center">A passionate Full stack development</h3>
 <img align="right" alt="Coding" width="400" src="https://img.freepik.com/free-vector/male-programmer-working-computer-office-wall-with-hanging-reminder-stickers-developer-creating-new-software-interface-coding-programming-system-administrator-designer-character_575670-1159.jpg?w=900&t=st=1699459941~exp=1699460541~hmac=2f6449b9ecb98d637509940b85c34761b711c022f5f3db04c96ddc91f5357386"/>
