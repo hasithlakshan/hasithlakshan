@@ -26,18 +26,43 @@
 
 Here are my contributions from other GitHub accounts:
 
-<div style="display: flex; align-items: center; margin-bottom: 20px; flex-direction: column"><a href="https://github.com/hasith-noetic"><img src="https://camo.githubusercontent.com/edace24477b83fec7ceeed28766bed49d1e437525e96e7570ace005e7c8a9432/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6769746875622e706e67" width="45" height="45" style="border-radius: 50%; margin-right: 10px;"/></a><div><a href="https://github.com/hasith-noetic">hasith-noetic</a>( 2019-2021 )</div></div>
-
-  [hasith-noetic](https://github.com/hasith-noetic)
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
   <a href="https://github.com/hasith-noetic">
     <img src="https://camo.githubusercontent.com/edace24477b83fec7ceeed28766bed49d1e437525e96e7570ace005e7c8a9432/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6769746875622e706e67"
       width="45"
       height="45"
+      style="border-radius: 50%; margin-right: 10px;"
     />
   </a>
+  <div>
+    <a href="https://github.com/hasith-noetic">hasith-noetic [2019-2021]</a>
+  </div>
+</div>
 
-### [hasith-schoolgrove](https://github.com/hasith-schoolgrove)
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <a href="https://github.com/hasith-schoolgrove">
+    <img src="https://camo.githubusercontent.com/edace24477b83fec7ceeed28766bed49d1e437525e96e7570ace005e7c8a9432/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6769746875622e706e67"
+      width="45"
+      height="45"
+      style="border-radius: 50%; margin-right: 10px;"
+    />
+  </a>
+  <div>
+    <a href="https://github.com/hasith-schoolgrove">hasith-schoolgrove [2021-2022]</a>
+  </div>
+</div>
 
-### [hasith-dbf](https://github.com/hasith-dbf)
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <a href="https://github.com/hasith-dbf">
+    <img src="https://camo.githubusercontent.com/edace24477b83fec7ceeed28766bed49d1e437525e96e7570ace005e7c8a9432/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6769746875622e706e67"
+      width="45"
+      height="45"
+      style="border-radius: 50%; margin-right: 10px;"
+    />
+  </a>
+  <div>
+    <a href="https://github.com/hasith-dbf">hasith-dbf [2022-2023]</a>
+  </div>
+</div>
 
 
