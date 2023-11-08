@@ -32,9 +32,6 @@ Here are my contributions from other GitHub accounts:
     justify-content: center;
     margin-bottom: 20px;
   }
-  .x {
-    padding-bottom: 10px;
-  }
 </style>
 
 <div class="profile-section">
@@ -44,7 +41,7 @@ Here are my contributions from other GitHub accounts:
       height="45"
       style="border-radius: 50%; margin-right: 10px;"
     />
-<div class="x">hasith-noetic [2019-2021]</div>
+<div style="padding-bottom: 20px;" >hasith-noetic [2019-2021]</div>
   </a>
 </div>
 
