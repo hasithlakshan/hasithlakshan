@@ -31,6 +31,7 @@ Here are my contributions from other GitHub accounts:
     align-items: center;
     justify-content: center;
     margin-bottom: 20px;
+    font-size: 20px;
   }
 </style>
 
@@ -45,30 +46,25 @@ Here are my contributions from other GitHub accounts:
   </a>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div class="profile-section">
   <a href="https://github.com/hasith-schoolgrove">
-    <img src="https://camo.githubusercontent.com/edace24477b83fec7ceeed28766bed49d1e437525e96e7570ace005e7c8a9432/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6769746875622e706e67"
-      width="45"
-      height="45"
+    <img src="https://camo.githubusercontent.com/edace24477b83fec7ceeed28766bed49d1e437525e96e7570ace005e7c8a9432/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656n742f34382f3030303030302f6769746875622e706e67"
+   width="20"
+      height="20"
       style="border-radius: 50%; margin-right: 10px;"
     />
+    hasith-schoolgrove [2021-2022]
   </a>
-  <div>
-    <a href="https://github.com/hasith-schoolgrove">hasith-schoolgrove [2021-2022]</a>
-  </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div class="profile-section">
   <a href="https://github.com/hasith-dbf">
     <img src="https://camo.githubusercontent.com/edace24477b83fec7ceeed28766bed49d1e437525e96e7570ace005e7c8a9432/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f6769746875622e706e67"
-      width="45"
-      height="45"
+   width="20"
+      height="20"
       style="border-radius: 50%; margin-right: 10px;"
     />
+    hasith-dbf [2022-2023]
   </a>
-  <div>
-    <a href="https://github.com/hasith-dbf">hasith-dbf [2022-2023]</a>
-  </div>
 </div>
-
 
