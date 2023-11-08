@@ -25,15 +25,6 @@
 
 Here are my contributions from other GitHub accounts:
 
-<style>
-  .profile-section {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-bottom: 20px;
-    font-size: 20px;
-  }
-</style>
 
 <div class="profile-section">
   <a href="https://github.com/hasith-noetic">
