@@ -41,7 +41,7 @@ Here are my contributions from other GitHub accounts:
       height="20"
       style="border-radius: 50%; margin-right: 10px;"
     />
-hasith-noetic [2019-2021]
+    hasith-noetic [2019-2021]
   </a>
 </div>
 
