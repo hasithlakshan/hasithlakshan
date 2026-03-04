@@ -12,13 +12,12 @@ I specialize in building **end-to-end systems using React, Node.js, and microser
 ### 🔭 Currently Working On
 - SaaS platform development using **SurveyJS**
 - **OpenAI integrations + n8n automation**
-- Building scalable **Node.js microservices**
+- Migrating Node.js services from **JavaScript to TypeScript**
 - Salesforce platform customization
 
 ---
 
 ### 🌱 Currently Learning
-- **Three.js**
 - **Advanced Cloud Architecture**
 - **AI-driven automation**
 
@@ -106,9 +105,9 @@ React • Node.js • Microservices • APIs • System Architecture • AI Inte
 
 These accounts contain earlier contributions from my professional work.
 
-<a href="https://github.com/hasith-noetic">hasith-noetic (2019-2021)</a>  
-<a href="https://github.com/hasith-schoolgrove">hasith-schoolgrove (2021-2022)</a>  
-<a href="https://github.com/hasith-dbf">hasith-dbf (2022-2023)</a>
+<a href="https://github.com/hasith-noetic">hasith-noetic (2019-2021)</a><br/>
+<a href="https://github.com/hasith-schoolgrove">hasith-schoolgrove (2021-2022)</a><br/>
+<a href="https://github.com/hasith-dbf">hasith-dbf (2022-2023)</a><br/>
 <a href="https://github.com/hasith3b4sf">hasith3b4sf (2025-2026)</a>
 
 ---
